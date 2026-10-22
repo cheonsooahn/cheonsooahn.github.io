@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://cheonsooahn.github.io/</loc></url>
-  <url><loc>https://cheonsooahn.github.io/studykok.html</loc></url>
-  <url><loc>https://cheonsooahn.github.io/parkkok.html</loc></url>
+  <url><loc>https://cheonsooahn.github.io/</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://cheonsooahn.github.io/studykok.html</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://cheonsooahn.github.io/parkkok.html</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://cheonsooahn.github.io/studykok-stations-univs.html</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://cheonsooahn.github.io/studykok-brands-dongs.html</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://cheonsooahn.github.io/studykok-areas-guides.html</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://cheonsooahn.github.io/studykok-regions-metro.html</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://cheonsooahn.github.io/studykok-regions-local.html</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://cheonsooahn.github.io/parkkok-guides-areas.html</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://cheonsooahn.github.io/parkkok-regions-metro-gangwon.html</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://cheonsooahn.github.io/parkkok-regions-chungcheong-honam.html</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://cheonsooahn.github.io/parkkok-regions-yeongnam-jeju.html</loc><lastmod>2026-10-22</lastmod></url>
 </urlset>
